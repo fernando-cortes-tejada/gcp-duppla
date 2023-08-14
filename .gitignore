@@ -1,0 +1,5 @@
+.vscode
+setup.py
+gcp_duppla.egg-info
+build
+dist
